@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋 I'm Hina
+
+- 💻 Software Developer
+- ☁️ Azure & .NET enthusiast
+- 🚀 Building scalable cloud apps
 
 <!--
 **hina-kauser/hina-kauser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
