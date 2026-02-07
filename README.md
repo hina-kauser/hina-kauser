@@ -4,7 +4,7 @@
 - ☁️ Azure & .NET enthusiast
 - 🚀 Building scalable cloud apps
 
-<img src="assets/woman-coding.gif" width="400" />
+<img src="assests/woman-coding.gif" width="400" />
 
 <!--
 **hina-kauser/hina-kauser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
